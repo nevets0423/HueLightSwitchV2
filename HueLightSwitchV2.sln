@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HueLightSwitchV2", "HueLightSwitchV2\HueLightSwitchV2.csproj", "{F4D4AE96-7417-48BF-BC4D-098CDD723922}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhilipsHueLightApis", "PhilipsHueLightApis\PhilipsHueLightApis.csproj", "{EC620B98-67D4-42B5-BE44-79B6510755B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HueLightService", "HueLightService\HueLightService.csproj", "{2A04E828-D314-42E3-9282-5D25BF87400A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4D4AE96-7417-48BF-BC4D-098CDD723922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4D4AE96-7417-48BF-BC4D-098CDD723922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4D4AE96-7417-48BF-BC4D-098CDD723922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4D4AE96-7417-48BF-BC4D-098CDD723922}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC620B98-67D4-42B5-BE44-79B6510755B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC620B98-67D4-42B5-BE44-79B6510755B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC620B98-67D4-42B5-BE44-79B6510755B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC620B98-67D4-42B5-BE44-79B6510755B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A04E828-D314-42E3-9282-5D25BF87400A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A04E828-D314-42E3-9282-5D25BF87400A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A04E828-D314-42E3-9282-5D25BF87400A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A04E828-D314-42E3-9282-5D25BF87400A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1592562-BC59-4C48-B65C-126F936D9B2C}
+	EndGlobalSection
+EndGlobal
